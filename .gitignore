@@ -1,0 +1,24 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore IDE or editor files
+.idea/
+.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore sensitive or environment-specific files
+config.ini
+secrets.json
+
+# Ignore dependencies (if using a package manager)
+node_modules/
