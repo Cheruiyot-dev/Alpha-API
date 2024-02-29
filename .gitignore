@@ -12,13 +12,10 @@ env/
 # Ignore log files
 *.log
 
-# Ignore system files
-.DS_Store
-Thumbs.db
+
 
 # Ignore sensitive or environment-specific files
 config.ini
 secrets.json
 
-# Ignore dependencies (if using a package manager)
-node_modules/
+
